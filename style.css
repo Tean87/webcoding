@@ -1,0 +1,20 @@
+body {background-color: lightgreen;}
+h1 {color: orange;}
+p {color: #129900; font-family: Times New Roman, Times, sans-serif;}
+.highlight {color: Magenta; background-color: blue; font-weight: bold;}
+#main-heading {color: orange; font-family: 'Georgia', serif; font-size: 32px;}
+.header {background-color: lightgreen; color: lightblue; padding: 20px; border: 2px solid lightblue; margin: 25px 0;} 
+.main-content {background-color: rgb(25, 102, 25); color: black; padding: 30px; border: 2px solid #3498db; margin: 20px 0;}
+.footer {background-color: lightsalmon; color: white; padding: 20px; border: 2px solid lightblue; margin: 20px 0;}
+.box {width: 200px; padding: 100px; border: 2px solid 0; color: white;}
+.static-box {position: static; background-color: blue;}
+.relative-box {position: relative; top: 20px; left: 30; background-color: red;}
+.absolute-box {position: absolute; top: 50px; right: 20px; background-color: purple;}
+.sizing-container {width: 500px; border: 1px solid lightcoral; padding: 1rem;}
+.heading-rem {font-size: 2rem;}
+.text-em {font-size: 1.2em;}
+.responsive-img {width: 50%; height: auto;}
+.box-left {float: left; width: 45%; background-color: lightblue; color: white; padding: 10px;}
+.box-right {float: right; width: 45%; background-color: rgb(19, 56, 92); color: white; padding: 10px;}
+.clearfix-box {clear: both; background-color: lightseagreen; color: white; padding: 10px; margin-top: 15px;}
+
